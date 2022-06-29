@@ -24,7 +24,7 @@ body {
 }
 @media (max-width: 600px) {
     .main-container .container2 {
-        margin-left: 20%;
+        margin-left: 15%;
     }
 }
 .main-container .container3 {
@@ -40,7 +40,7 @@ body {
 }
 @media (max-width: 600px) {
     .main-container .container3 {
-        left: 20%;
+        left: 15%;
     }
 }
 .main-container .container3 textarea {
